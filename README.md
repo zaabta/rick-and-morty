@@ -1,17 +1,16 @@
 <p align="center">
-    <img src="logo.svg" />
+    <img src="https://repository-images.githubusercontent.com/120371205/b6740400-92d4-11ea-8a13-d5f6e0558e9b" />
 </p>
 
-# Typescript React Template
+# Rick And Morty
 
-The React application in Typescript is configured with ESlint, Jest, and Styled-components.
 
 **How to use**:
 
 1. Clone the template repository:
 
 ```bash
-    > git clone https://github.com/nnfunny/typescript-react-template.git
+    > git clone https://github.com/zaabta/rick-and-morty
 ```
 
 2. Install dependencies:
@@ -37,5 +36,3 @@ The React application in Typescript is configured with ESlint, Jest, and Styled-
     or
     > npm run build
 ```
-
-Please feel free to use this template and build your awesome projects ✨.
